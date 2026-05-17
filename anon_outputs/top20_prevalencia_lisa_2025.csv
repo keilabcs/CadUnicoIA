@@ -1,0 +1,21 @@
+rank,municipio,prevalencia_2025,cluster_lisa,significativo_2025
+1,Ouro Branco,0.247,Não significativo,False
+2,Olho d'Água das Flores,0.223,Não significativo,False
+3,Jacuípe,0.218,Não significativo,False
+4,Limoeiro de Anadia,0.213,Não significativo,False
+5,Pariconha,0.211,Não significativo,False
+6,Santa Luzia do Norte,0.163,Não significativo,False
+7,Monteirópolis,0.157,Não significativo,True
+8,Jacaré dos Homens,0.141,Não significativo,False
+9,Novo Lino,0.14,Não significativo,False
+10,Maceió,0.135,High-High,False
+11,Estrela de Alagoas,0.134,Não significativo,False
+12,Maravilha,0.134,Não significativo,False
+13,Flexeiras,0.13,Não significativo,False
+14,Penedo,0.13,Não significativo,True
+15,Olivença,0.128,Não significativo,False
+16,Belém,0.124,Não significativo,False
+17,Palmeira dos Índios,0.119,Não significativo,False
+18,Igaci,0.115,Não significativo,False
+19,Carneiros,0.114,Não significativo,True
+20,Cacimbinhas,0.114,Não significativo,False

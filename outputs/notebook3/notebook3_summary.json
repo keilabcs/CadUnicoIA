@@ -1,0 +1,9 @@
+{
+  "best_model_name": "LightGBM",
+  "has_grouped_shap": true,
+  "has_feature_shap": true,
+  "has_ablation_no_territorial": true,
+  "has_calibration_validation": true,
+  "has_tuning_validation": true,
+  "has_fair_validation_comparison": true
+}
