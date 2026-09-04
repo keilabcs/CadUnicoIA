@@ -1,4 +1,4 @@
-# A Machine Learning Framework for Early Detection of Food Insecurity Using Administrative Microdata
+# [A Machine Learning Framework for Early Detection of Food Insecurity Using Administrative Microdata]([https://link-url-here.org](https://sol.sbc.org.br/index.php/wcge/article/view/43598))
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -316,10 +316,11 @@ https://creativecommons.org/licenses/by/4.0/
 If you use this repository, code, or results in academic work, please cite:
 
 ```bibtex
-@inproceedings{barbosa2026foodinsecurity,
+@inproceedings{barbosa2026machine,
   title={A Machine Learning Framework for Early Detection of Food Insecurity Using Administrative Microdata},
-  author={Barbosa, Keila and Aquino, Andre L.},
-  booktitle={Anais do CSBC 2026 -- LASDigiGov},
+  author={Barbosa, Keila and Aquino, Andre L},
+  booktitle={Latin American Symposium on Digital Government (LASDiGov)},
+  pages={1--12},
   year={2026},
   organization={Sociedade Brasileira de Computação},
   license={CC BY 4.0}
