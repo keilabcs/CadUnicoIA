@@ -323,6 +323,7 @@ If you use this repository, code, or results in academic work, please cite:
   pages={1--12},
   year={2026},
   organization={Sociedade Brasileira de Computação},
+  url={https://sol.sbc.org.br/index.php/wcge/article/view/43598},
   license={CC BY 4.0}
 }
 ```
